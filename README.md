@@ -1,3 +1,4 @@
+Fűrész Bence
 # EtalapJAVA
 ![terv](https://github.com/fureszb/EtalapJAVA/assets/115637991/1eb99e51-ad79-486c-a1ef-8dc6513c6208)
 ![form1](https://github.com/fureszb/EtalapJAVA/assets/115637991/7ad60a64-6364-4701-9b56-dac6942b3c2b)
